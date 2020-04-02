@@ -1,0 +1,50 @@
+﻿  main.cpp
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(388,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(227): message : while compiling class template member function 'void CSRMatrix<double>::matMatMult(CSRMatrix<double> &,CSRMatrix<double> &)'
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(443): message : see reference to function template instantiation 'void CSRMatrix<double>::matMatMult(CSRMatrix<double> &,CSRMatrix<double> &)' being compiled
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(50): message : while compiling class template member function 'CSRMatrix<double>::CSRMatrix(Matrix<double> &)'
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main.cpp(118): message : see reference to function template instantiation 'CSRMatrix<double>::CSRMatrix(Matrix<double> &)' being compiled
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(463): message : see reference to class template instantiation 'CSRMatrix<double>' being compiled
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(399,46): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(403,58): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  main_test.cpp
+  Matrix.cpp
+  main_test_constructor.cpp
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(57,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(341,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(1142,6): error C2374: 'rows': redefinition; multiple initialization
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(925): message : see declaration of 'rows'
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(1144,41): error C3536: 'Adense': cannot be used before it is initialized
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(1144,34): error C2100: illegal indirection
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(1147,8): error C2371: 'b': redefinition; different basic types
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(934): message : see declaration of 'b'
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(1152,3): error C3536: 'A': cannot be used before it is initialized
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(1156,15): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\main_test_constructor.cpp(1157,10): error C2541: 'delete': cannot delete objects that are not pointers
+  CSRMatrix.cpp
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(388,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(227): message : while compiling class template member function 'void CSRMatrix<double>::matMatMult(CSRMatrix<double> &,CSRMatrix<double> &)'
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(443): message : see reference to function template instantiation 'void CSRMatrix<double>::matMatMult(CSRMatrix<double> &,CSRMatrix<double> &)' being compiled
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(111): message : while compiling class template member function 'CSRMatrix<double>::~CSRMatrix(void)'
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(463): message : see reference to class template instantiation 'CSRMatrix<double>' being compiled
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(399,46): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\rorye\OneDrive - Imperial College London\ACSE-5\acse-5-assignment-git_pullers\Matrix\CSRMatrix.cpp(403,58): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Source.cpp
+  Source1.cpp
+  Generating Code...
