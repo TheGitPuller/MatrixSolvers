@@ -1,5 +1,3 @@
-# acse-5-assignment-git_pullers 
-
 # Implementing Linear Solvers
 
 This advanced programming project aims to implement, test and optimize linear solvers for dense and sparse matrices with a view towards high performance computing and effective library design. This program is written in C++ and contains two libraries that pertain to dense and sparse matrices (each containing their respective `.cpp` and `.h` files), with the program running on the `main.cpp` which seeks to highlight this program's functionality.
@@ -156,10 +154,13 @@ Examples are given in `main.cpp` to demonstrate functionality.
 
 * **[Alex Campbell](https://github.com/acse-ac6915)**
 * **[Jorge Garcias](https://github.com/acse-jg719)**
-* **[Rory Johnston](https://github.com/acse-rej19)**
+* **[Rory Johnston](https://github.com/TheGitPuller)**
 
 ## Acknowledgements
 
-* Dr. Steven Dargaville - Lecturer in Advanced Programming Methods. Special thanks also to his team of Teaching Assistants for their support and advice.
-* Professor Matthew Piggott - ACSE-3 Linear Solvers Course Material from which LU Factorisation and Gaussian Elimination Solvers were adapted.
+* Thanks to teaching staff and assistance for provision of knowledge and help.
 * Stack Overflow for its eternal fount of knowledge.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
